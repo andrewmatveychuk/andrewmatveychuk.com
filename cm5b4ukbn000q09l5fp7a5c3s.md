@@ -5,7 +5,7 @@ seoDescription: "Learn how to effectively monitor and manage Azure Reservations 
 datePublished: Mon Oct 03 2022 13:56:20 GMT+0000 (Coordinated Universal Time)
 cuid: cm5b4ukbn000q09l5fp7a5c3s
 slug: how-to-monitor-azure-reservations-utilization
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681929702/edba5894-172e-42e0-81ff-9a17142cbd6b.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736871047833/41c67984-c323-4031-a5a5-2f7c3f2fcd01.png
 tags: azure, finops
 
 ---
