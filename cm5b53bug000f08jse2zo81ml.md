@@ -4,7 +4,7 @@ seoDescription: "Compare Azure Savings Plans and Reservations to determine the b
 datePublished: Mon Jul 17 2023 11:00:24 GMT+0000 (Coordinated Universal Time)
 cuid: cm5b53bug000f08jse2zo81ml
 slug: azure-savings-plans-vs-azure-reservations
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681926131/9ba81b40-3715-4aa8-b45c-39acf33ce75a.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736870919330/2b79e3c3-e340-4d1d-8482-510304ab5b27.png
 tags: azure, finops
 
 ---
