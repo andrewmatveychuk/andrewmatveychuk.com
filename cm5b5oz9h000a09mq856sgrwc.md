@@ -4,7 +4,7 @@ seoDescription: "Identify, assess, and manage unused Azure resources to save cos
 datePublished: Fri Jun 23 2023 12:30:24 GMT+0000 (Coordinated Universal Time)
 cuid: cm5b5oz9h000a09mq856sgrwc
 slug: how-to-find-unused-or-orphan-resources-in-azure
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681925848/76e00335-a263-41bb-b585-1bb42355dbc3.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736870938463/877e1195-8e84-47cd-8f6d-d3052f5ffac7.png
 tags: azure, how-to, finops, it-operations
 
 ---
