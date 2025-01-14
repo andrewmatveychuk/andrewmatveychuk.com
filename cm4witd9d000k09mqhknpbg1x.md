@@ -4,7 +4,7 @@ seoTitle: "Switching from Ghost to Hashnode"
 datePublished: Fri Dec 20 2024 09:01:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm4witd9d000k09mqhknpbg1x
 slug: migrating-from-ghost-to-hashnode
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736864483526/66fc9cf0-fa41-489e-973c-de40c2333e01.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736865300011/eb0feaf1-acbe-44db-934c-857a96834641.png
 tags: ghost, migration, hashnode
 
 ---
