@@ -4,7 +4,7 @@ seoDescription: "Optimize Azure cost by auditing and enabling Azure Hybrid Benef
 datePublished: Tue Nov 29 2022 13:48:26 GMT+0000 (Coordinated Universal Time)
 cuid: cm5mld6wf000u08me8b1bc3ga
 slug: audit-and-enable-azure-hybrid-benefit-using-azure-policy
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681922832/a065e3b9-60b5-4265-9ab9-76a37587ae0b.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736871029044/ca5e63db-1e21-43f6-a4c2-666ea8b84f41.png
 tags: azure, azure-hybrid-benefit, azure-policy
 
 ---
