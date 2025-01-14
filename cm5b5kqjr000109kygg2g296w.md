@@ -5,7 +5,7 @@ seoDescription: "Use Azure Workbooks to audit Azure Hybrid Benefit, monitor lice
 datePublished: Thu Jan 05 2023 15:30:19 GMT+0000 (Coordinated Universal Time)
 cuid: cm5b5kqjr000109kygg2g296w
 slug: how-to-audit-azure-hybrid-benefit-usage-with-azure-workbooks
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681930652/55b3ccd1-7c96-4579-bb02-464cdd85a4c5.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736870974612/20bc419f-1660-4b89-b44d-050b4c1f313b.png
 tags: azure, finops, azure-monitor
 
 ---
