@@ -4,7 +4,7 @@ seoDescription: "Learn how to update OAuth2 permission grants for Azure AD servi
 datePublished: Mon Jan 24 2022 12:35:28 GMT+0000 (Coordinated Universal Time)
 cuid: cm5b8ael0000409kt3f02ctvi
 slug: how-to-update-the-oauth2-permission-grants-for-an-azure-ad-service-principal
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681924764/96f36f75-9592-4d6f-9541-852b5a678dd2.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736871067674/299931c5-9814-448c-b1f8-360688547d75.png
 tags: azure, how-to, oauth2, entra-id
 
 ---
