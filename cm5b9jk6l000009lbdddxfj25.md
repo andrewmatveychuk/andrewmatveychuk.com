@@ -4,7 +4,7 @@ seoDescription: "Learn to authenticate Azure resources from non-Azure servers us
 datePublished: Tue Jul 02 2024 11:00:17 GMT+0000 (Coordinated Universal Time)
 cuid: cm5b9jk6l000009lbdddxfj25
 slug: how-to-authenticate-to-azure-with-managed-identities-from-non-azure-servers
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681923623/5fda135a-06cd-4de3-a28a-643ab696ad0f.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736867463233/bd3996da-18d8-4ec5-9dbe-75c113387747.png
 tags: authentication, azure, security, entra-id
 
 ---
