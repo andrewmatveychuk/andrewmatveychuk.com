@@ -4,7 +4,7 @@ seoDescription: "Deploy Azure resources across tenants using Azure DevOps. Explo
 datePublished: Wed Jun 30 2021 07:25:02 GMT+0000 (Coordinated Universal Time)
 cuid: cm5b7olnz00030ajmeco2f6kl
 slug: how-to-deploy-to-another-tenant-with-azure-devops
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681924998/60af7ce1-4b59-421b-9568-ba90116aa724.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736871106654/2584fb68-9b09-4477-af19-6e5694475a49.png
 tags: azure, how-to, azure-devops
 
 ---
