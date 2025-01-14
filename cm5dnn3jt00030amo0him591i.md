@@ -4,7 +4,7 @@ seoDescription: "Send Azure Automation Runbook logs to Log Analytics for efficie
 datePublished: Mon Feb 26 2024 13:00:03 GMT+0000 (Coordinated Universal Time)
 cuid: cm5dnn3jt00030amo0him591i
 slug: how-to-send-custom-azure-automation-runbook-logs-to-log-analytics
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681923596/3a062005-7822-47ab-8047-3088dcc3ec44.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736868359551/640f4294-fd01-4252-86e4-ea2d5b56c699.png
 tags: azure, logging, powershell, azure-monitor
 
 ---
