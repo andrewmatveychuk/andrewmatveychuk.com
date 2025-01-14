@@ -4,7 +4,7 @@ seoDescription: "Discover the latest updates on deploying Ghost 5 on Azure, inte
 datePublished: Tue Nov 12 2024 09:40:51 GMT+0000 (Coordinated Universal Time)
 cuid: cm5b9gsfz000409l8bhltbejv
 slug: ghost-on-azure-project-update
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736780538076/5eed98c8-1dd2-42a3-a43a-125ffd235d77.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736867442838/652580ec-bb95-453e-bb86-1c09ccc32652.png
 tags: azure, ghost, containers
 
 ---
