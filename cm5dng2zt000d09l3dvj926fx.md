@@ -4,7 +4,7 @@ seoDescription: "Learn to securely connect Ghost on Azure to an Azure Database f
 datePublished: Mon Sep 06 2021 15:39:20 GMT+0000 (Coordinated Universal Time)
 cuid: cm5dng2zt000d09l3dvj926fx
 slug: how-to-connect-to-azure-database-for-mysql-from-ghost-container
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681923694/b385b955-9cc3-45a5-b4ae-afb2dc36fbcf.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736871091452/102f45a9-eb1b-4232-a713-559c252481d3.png
 tags: azure, mysql, ghost, containers
 
 ---
