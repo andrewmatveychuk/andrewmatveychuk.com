@@ -4,7 +4,7 @@ seoDescription: "Learn how to enforce naming conventions for Azure resources usi
 datePublished: Tue Dec 10 2019 05:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5mnghmd000409mhab7b8s7r
 slug: how-to-enforce-naming-convention-for-azure-resources
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681922782/62b1e29f-2c8d-4763-8d8a-87067316a435.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737018897560/e23a201e-773b-4688-a4f3-9a6f0cde9a1d.png
 tags: azure, azure-policy, naming-conventions
 
 ---
