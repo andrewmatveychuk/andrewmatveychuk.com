@@ -4,7 +4,7 @@ seoDescription: "Explore misconceptions about DevOps, its true definition, and w
 datePublished: Tue Oct 29 2019 05:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5b4l0er000008md6gztdj1p
 slug: whats-wrong-with-devops
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737017206794/9a8bfcfb-b958-4633-ba1d-4b5813a1251f.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737018675405/f86f217f-dad9-4b84-8c75-0d9e8acd8645.png
 tags: blogging, devops
 
 ---
