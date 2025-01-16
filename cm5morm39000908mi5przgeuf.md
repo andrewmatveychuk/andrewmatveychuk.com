@@ -3,7 +3,7 @@ title: "Boost your confidence with Azure DevOps (Webinar)"
 datePublished: Sat Apr 25 2020 08:49:04 GMT+0000 (Coordinated Universal Time)
 cuid: cm5morm39000908mi5przgeuf
 slug: boost-your-confidence-with-azure-devops-webinar
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681922767/68a0ab09-0070-41fd-ba1e-97996d5b96b5.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737041770001/59a5dd23-b5f9-4b9c-b350-bcd32f463178.png
 tags: webinar, azure-devops
 
 ---
