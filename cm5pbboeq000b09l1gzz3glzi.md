@@ -4,7 +4,7 @@ seoDescription: "Gain productivity with goal-setting, energy management, and pla
 datePublished: Thu Jul 04 2019 10:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5pbboeq000b09l1gzz3glzi
 slug: my-personal-productivity-tips-part-1
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681921861/699cbc42-b90e-4d36-9561-c17fa8a07cd8.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737018999073/3fb44089-532a-42c4-8344-3e6efefa87ce.png
 tags: blogging, productivity, time-management
 
 ---
