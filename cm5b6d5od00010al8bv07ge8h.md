@@ -4,7 +4,7 @@ seoDescription: "Secure your Ghost deployment on Azure with Key Vault, Azure Fro
 datePublished: Mon Feb 15 2021 05:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5b6d5od00010al8bv07ge8h
 slug: ghost-deployment-on-azure-security-hardening
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681925461/4f2274f8-bf29-4000-b95a-b0455e5059a9.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737043040009/6b9c3ffa-14e3-4be2-aa91-1a0d572b1f3f.png
 tags: azure, security, ghost, how-to, system-design
 
 ---
