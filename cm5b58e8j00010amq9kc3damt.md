@@ -4,7 +4,7 @@ seoDescription: "Discover how to efficiently run a blog for under $8/month with 
 datePublished: Tue Jun 02 2020 03:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5b58e8j00010amq9kc3damt
 slug: how-i-run-my-blog
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681926555/fa3f5e22-6f58-41ab-93e4-fd0cd3183be5.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737041839029/25e08b45-cfa3-4f92-b0eb-0b1156fc6dcf.png
 tags: blogging, ghost, howtos
 
 ---
