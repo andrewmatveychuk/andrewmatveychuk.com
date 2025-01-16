@@ -4,7 +4,7 @@ seoDescription: "Learn how to deploy Azure Policy from an Azure DevOps pipeline 
 datePublished: Thu Jan 23 2020 05:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5pbmrjl000t09kygpob5qtw
 slug: how-to-deploy-azure-policy-from-an-azure-devops-pipeline
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681921701/6fc55233-2d7b-49e2-835b-bc5561f38014.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737046006981/d338a965-3e8c-4370-bd9d-cde45836dea8.png
 tags: azure, cicd, azure-devops, azure-policy
 
 ---
