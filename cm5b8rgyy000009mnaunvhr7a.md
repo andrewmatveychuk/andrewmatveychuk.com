@@ -4,14 +4,14 @@ seoDescription: "Optimize Azure costs with reservations, traffic offloading, and
 datePublished: Tue Aug 04 2020 04:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5b8rgyy000009mnaunvhr7a
 slug: practical-use-cases-of-cost-optimization-in-azure
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681924790/e5db4fa6-a57a-47fd-9cb3-7a24a66382fa.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737042005717/4f41e212-db55-4dee-93ca-a28ce8c41954.png
 tags: azure, how-to, finops
 
 ---
 
 Addressing the subject with traditional direct cost-cutting approaches, such as negotiating for discounts or moving to a cheaper service provider, can help you to some extent. Still, your savings results might not be very impressive compared to cloud-native options.
 
-I already wrote [a guest blog post on various approaches to optimizing cloud resource costs](https://andrewmatveychuk.com/how-to-optimize-the-cost-of-your-cloud-resources-cross-post/) to demonstrate that this topic is not limited to bare cloud service price considerations. In this post, I would like to share a few Azure-specific cases on how you can implement those approaches in practice.
+I have already written [a guest blog post on various approaches to optimizing cloud resource costs](https://andrewmatveychuk.com/how-to-optimize-the-cost-of-your-cloud-resources-cross-post/) to demonstrate that this topic is not limited to bare cloud service price considerations. In this post, I would like to share a few Azure-specific cases on how you can implement those approaches in practice.
 
 > Before proceeding to the cases, I highly recommend familiarizing yourself with [Azure Cost Management](https://docs.microsoft.com/en-us/azure/cost-management-billing/) and its analytic capabilities. Basically, it will be your magnifying glass to determine what specific resources or resource types draw the most money from your account.
 
