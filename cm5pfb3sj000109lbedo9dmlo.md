@@ -3,7 +3,7 @@ title: "Some thoughts on finance management  and investment"
 datePublished: Tue Aug 06 2019 04:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5pfb3sj000109lbedo9dmlo
 slug: some-thoughts-on-finance-management-and-investment
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681923562/8c766a1e-7d1b-456b-915a-880aff4264bd.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737018427539/9fb2714f-95d0-4cbb-bdbf-859583a2c6d7.png
 tags: blogging, finance
 
 ---
