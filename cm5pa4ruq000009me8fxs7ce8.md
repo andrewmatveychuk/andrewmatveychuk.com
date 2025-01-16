@@ -4,7 +4,7 @@ seoDescription: "Explore incident lifecycles, workflows, and SLA importance in I
 datePublished: Mon May 27 2019 04:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5pa4ruq000009me8fxs7ce8
 slug: incident-management-in-it-operations-101-the-basics-part-2
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681922371/2ee03839-cec9-426e-9af2-57d634f09f16.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737045776998/859bf14f-0893-46df-a8fe-0442c90ddccf.png
 tags: incident-management, itil, it-operations
 
 ---
