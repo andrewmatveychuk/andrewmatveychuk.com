@@ -3,7 +3,7 @@ title: "How to ensure proper configuration for your Azure resources"
 datePublished: Thu Jan 16 2020 05:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5o2pv7e000b09mq558hbhzs
 slug: how-to-ensure-proper-configuration-for-your-azure-resources
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681922676/c485afe0-9025-48b9-b6e5-b1079a9bc777.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737041889464/9fa30d97-8020-47ea-b50c-0976273cf37f.png
 tags: azure, backup, azure-sql-database, azure-policy
 
 ---
