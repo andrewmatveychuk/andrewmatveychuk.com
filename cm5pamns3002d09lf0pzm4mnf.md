@@ -4,7 +4,7 @@ seoDescription: "Boost productivity with Microsoft Outlook: schedule tasks in yo
 datePublished: Tue Jul 30 2019 04:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5pamns3002d09lf0pzm4mnf
 slug: how-to-use-microsoft-outlook-to-stay-productive-part-2
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681921958/2c77a605-b27c-4639-ab22-df8a8ddeefeb.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737018965698/68b1133f-7296-4f46-976a-a90744e282b7.png
 tags: blogging, productivity, time-management, outlook
 
 ---
