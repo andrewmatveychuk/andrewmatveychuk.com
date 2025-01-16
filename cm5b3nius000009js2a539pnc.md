@@ -5,7 +5,7 @@ seoDescription: "Review of "The Phoenix Project" exploring IT challenges, DevOps
 datePublished: Wed Sep 04 2019 04:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5b3nius000009js2a539pnc
 slug: notes-on-the-phoenix-project
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681927016/3a77b95b-8da3-449f-b602-97447efec4ec.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737018579067/b62c1062-2a5e-4361-bf33-c5457ecb95b2.png
 tags: bookreview
 
 ---
