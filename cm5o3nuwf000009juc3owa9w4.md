@@ -4,7 +4,7 @@ seoDescription: "Learn to deploy Azure Policies using ARM templates and automate
 datePublished: Tue Nov 19 2019 05:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5o3nuwf000009juc3owa9w4
 slug: how-to-deploy-azure-policies-with-arm-templates
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681922475/653b46c2-7deb-45df-a97c-bf482496f7c4.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737018728041/e8746204-ffdb-4a90-9825-256d7272acbd.png
 tags: azure, azure-policy, arm-templates
 
 ---
