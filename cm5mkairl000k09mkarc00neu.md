@@ -4,7 +4,7 @@ seoDescription: "Learn how to boost productivity with Microsoft Outlook using of
 datePublished: Tue Jul 23 2019 13:26:13 GMT+0000 (Coordinated Universal Time)
 cuid: cm5mkairl000k09mkarc00neu
 slug: how-to-use-microsoft-outlook-to-stay-productive-part-1
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681923321/502609f6-03d0-494d-8f8f-1fc23a4f409d.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737018939403/26f82107-c4f0-42e3-8f00-6aad1047b9d8.png
 tags: blogging, productivity
 
 ---
