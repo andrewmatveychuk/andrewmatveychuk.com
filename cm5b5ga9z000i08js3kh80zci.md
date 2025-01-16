@@ -5,7 +5,7 @@ seoDescription: "Azure Policy starter guide: best practices, resources, creation
 datePublished: Mon Feb 01 2021 05:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5b5ga9z000i08js3kh80zci
 slug: azure-policy-starter-guide
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681927038/82ab4e24-bd6f-4bd6-a4db-b2e20cd4ef91.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737043067044/15e5c87f-00eb-4699-ac3c-c60abb5cbb05.png
 tags: azure, how-to, cloud-governance, azure-policy
 
 ---
