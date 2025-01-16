@@ -3,7 +3,7 @@ title: "Top-5 mistakes in IT Operations"
 datePublished: Tue Oct 15 2019 04:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5mhbis7000309ju9f905lex
 slug: top-5-mistakes-in-it-operations
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681923447/8173c3fd-1455-4b5e-b2fe-cae3572b7564.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737018611813/9adb73aa-8ac5-420c-8791-b1ccdb8924ff.png
 tags: blogging, itil, it-operations
 
 ---
