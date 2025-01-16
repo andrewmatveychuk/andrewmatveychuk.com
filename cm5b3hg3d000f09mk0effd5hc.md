@@ -5,7 +5,7 @@ seoDescription: "Explore the key concepts of "Digital Minimalism" by Cal Newport
 datePublished: Mon Apr 29 2019 14:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5b3hg3d000f09mk0effd5hc
 slug: notes-on-digital-minimalism-by-cal-newport-book-review
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681926997/38f3dec3-2abe-49ac-ad09-4dd6a14f9b21.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737045878790/cc7d616e-ab64-413c-bee1-ebbce11592a6.png
 tags: bookreview
 
 ---
