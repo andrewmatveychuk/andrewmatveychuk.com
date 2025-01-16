@@ -5,7 +5,7 @@ seoDescription: "Explore Gene Kim's "The Unicorn Project," a novel blending fict
 datePublished: Thu Jan 09 2020 05:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5b3ld7g000k08jlaq6a4b0c
 slug: notes-on-the-unicorn-project-by-gene-kim-book-review
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681926273/ca6c3b39-89ff-45ad-821d-4c8a297175d2.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737041860750/4310a227-fde9-4492-8550-0ef1447735c9.png
 tags: bookreview
 
 ---
