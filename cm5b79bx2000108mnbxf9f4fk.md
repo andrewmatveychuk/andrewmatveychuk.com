@@ -4,7 +4,7 @@ seoDescription: "Discover strategies to boost productivity and teamwork despite 
 datePublished: Wed Apr 29 2020 04:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5b79bx2000108mnbxf9f4fk
 slug: challenges-of-remote-work-in-the-times-of-corona-virus
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681925465/527b69f9-14a9-457f-ad15-7f70af7e6936.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737041790872/36065b02-1d71-4b24-8b56-b1f36f914ae4.png
 tags: blogging, productivity
 
 ---
