@@ -4,7 +4,7 @@ seoDescription: "Use audiobooks, extend reading time, create a reading list, and
 datePublished: Mon May 06 2019 04:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5b5zlbj000409l2226ihyhx
 slug: how-i-read-books
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681925933/db1954ab-ad10-411f-8d91-bcfc2ef689d4.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737045834662/c7cab6ae-a03d-47ea-83e6-956cae386e39.png
 tags: blogging, reading, how-to, aboutme
 
 ---
