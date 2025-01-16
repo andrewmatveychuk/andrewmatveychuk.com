@@ -4,7 +4,7 @@ seoDescription: "Improve productivity by freeing mental space, protecting focuse
 datePublished: Tue Jul 16 2019 04:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5pb0bsn000209kvdnft1jpt
 slug: my-personal-productivity-tips-part-2
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681921860/0d1b04a1-470b-41d9-adfb-96f31f21abca.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737019020235/d0bf3926-d249-4581-9eab-8d5a6fff10fb.png
 tags: blogging, productivity, time-management
 
 ---
