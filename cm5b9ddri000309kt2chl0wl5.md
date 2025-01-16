@@ -3,7 +3,7 @@ title: "Automatic tagging for Azure resources"
 datePublished: Thu Dec 26 2019 05:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5b9ddri000309kt2chl0wl5
 slug: automatic-tagging-for-azure-resources
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681924651/ccd874c2-4d2a-4d4b-9e01-a0e731dd47e0.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737018761134/343356b0-39cd-4158-8e38-b82216907989.png
 tags: azure, azure-policy
 
 ---
