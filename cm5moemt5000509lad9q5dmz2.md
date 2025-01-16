@@ -4,7 +4,7 @@ seoDescription: "Learn how to deploy linked ARM templates from private Azure Dev
 datePublished: Thu Dec 19 2019 05:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5moemt5000509lad9q5dmz2
 slug: how-to-deploy-linked-arm-templates-from-private-azure-devops-repositories
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681922775/5dfb342d-9fbf-4992-b48e-e1d926985063.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737018790435/27ea2ff5-60e0-4769-b43e-0ee2620533bd.png
 tags: azure, cicd, azure-devops, arm-templates
 
 ---
