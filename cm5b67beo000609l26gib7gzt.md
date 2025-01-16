@@ -4,7 +4,7 @@ seoDescription: "Practical CMDB management in Azure: focus on design, deployment
 datePublished: Wed Dec 02 2020 09:39:44 GMT+0000 (Coordinated Universal Time)
 cuid: cm5b67beo000609l26gib7gzt
 slug: practical-aspects-of-running-a-cmdb-for-azure-resources-tips
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681925922/16beee76-8131-4386-9c7d-e6edc2248771.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737042112343/55e88a52-616b-4e40-b2dd-08ca54573dd5.png
 tags: azure, configuration-management, itil, cmdb
 
 ---
