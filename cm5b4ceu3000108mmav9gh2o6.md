@@ -5,7 +5,7 @@ seoDescription: "Explore key leadership and management principles from "Extreme 
 datePublished: Mon Apr 22 2019 08:33:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5b4ceu3000108mmav9gh2o6
 slug: notes-on-extreme-ownership-by-jocko-willink-and-leif-babin-book-review-part-1
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681925044/b081e44e-8812-412e-914f-bf22920d00ed.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737045922468/14d6ff3c-a1e9-4865-8a64-273df0d86134.png
 tags: bookreview
 
 ---
