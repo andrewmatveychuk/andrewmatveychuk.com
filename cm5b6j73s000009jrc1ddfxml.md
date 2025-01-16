@@ -4,7 +4,7 @@ seoDescription: "Learn how to emulate maintenance mode for web availability test
 datePublished: Tue Nov 12 2019 05:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5b6j73s000009jrc1ddfxml
 slug: maintenance-mode-for-web-availability-tests-in-application-insights
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681925396/fc2577cc-ba61-4365-94c3-bcea90854bfd.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737018817848/a7087f6a-518d-4fe5-8a92-b517529c26f3.png
 tags: azure, devops, powershell, azure-devops
 
 ---
