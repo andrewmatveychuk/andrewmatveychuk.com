@@ -3,7 +3,7 @@ title: "How to run Azure DevOps self-hosted agents effectively"
 datePublished: Tue Nov 05 2019 05:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5pe23ij000409mb5qlp9q8l
 slug: how-to-run-azure-devops-self-hosted-agents-effectively
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681920302/4880eb6d-244f-4070-9994-2de8372e1857.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737017176308/d28ba768-ef54-4a68-b197-c9b1e32ed594.png
 tags: powershell, azure-devops, azure-automation, desired-state-configuration
 
 ---
