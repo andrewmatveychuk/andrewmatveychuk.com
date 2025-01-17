@@ -4,7 +4,7 @@ seoDescription: "Discover and avoid the top 5 common IT monitoring mistakes that
 datePublished: Mon Jun 10 2019 04:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5o159v2000d09ky0gww6hye
 slug: top-5-mistakes-in-it-monitoring
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681923118/27e23635-4854-4d00-93c2-2773d1b1c8e0.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737101165029/bb93f62c-cff3-4d45-acf2-58a84d4378e1.png
 tags: monitoring, itil, it-operations
 
 ---
