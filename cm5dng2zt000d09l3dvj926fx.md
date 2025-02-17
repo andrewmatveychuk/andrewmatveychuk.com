@@ -9,7 +9,7 @@ tags: azure, mysql, ghost, containers
 
 ---
 
-Continuing [the topic of hosting Ghost on Azure](https://andrewmatveychuk.com/tag/ghost-tag/), I decided to document some nuances of connecting to [Azure Database for MySQL](https://docs.microsoft.com/en-us/azure/mysql/) from a Ghost Docker container hosted on [Azure Web Apps for Containers](https://docs.microsoft.com/en-us/azure/app-service/configure-custom-container). Moreover, I will shed some light on doing it securely from any Node.js application in this post.
+Continuing [the topic of hosting Ghost on Azure](https://andrewmatveychuk.com/tag/ghost), I decided to document some nuances of connecting to [Azure Database for MySQL](https://docs.microsoft.com/en-us/azure/mysql/) from a Ghost Docker container hosted on [Azure Web Apps for Containers](https://docs.microsoft.com/en-us/azure/app-service/configure-custom-container). Moreover, I will shed some light on doing it securely from any Node.js application in this post.
 
 If you are more interested in the technical details, feel free to skip my reasoning for using Azure Database for MySQL as a backend for Ghost in the first section and scroll straight to the second one.
 
