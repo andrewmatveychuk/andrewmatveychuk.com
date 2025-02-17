@@ -9,7 +9,7 @@ tags: azure, ghost, containers
 
 ---
 
-It has been a while since I last updated my [Ghost on Azure project](https://andrewmatveychuk.com/tag/ghost-tag/), and many changes have been introduced to Azure services during that time. I decided to use the break in my work to update the project deployment templates to include those changes and to use it as a learning opportunity to catch up on new cloud service features.
+It has been a while since I last updated my [Ghost on Azure project](https://andrewmatveychuk.com/tag/ghost), and many changes have been introduced to Azure services during that time. I decided to use the break in my work to update the project deployment templates to include those changes and to use it as a learning opportunity to catch up on new cloud service features.
 
 > [Ghost on Azure](https://github.com/andrewmatveychuk/azure.ghost-web-app-for-containers) is a one-click Ghost deployment on Azure Web App for Containers. It’s written as a Bicep template, spinning a [custom Ghost Docker container](https://github.com/andrewmatveychuk/docker-ghost-ai) on Azure App Service, which uses Azure Database for MySQL as a backend. It can be a good starting point for anyone wanting to self-host the Ghost platform on the Microsoft Azure cloud. Plus, it leverages a lot of Azure-native services and their features. Thus, it can be considered a showcase of their practical usage.
 
