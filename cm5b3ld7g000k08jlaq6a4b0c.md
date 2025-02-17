@@ -12,7 +12,7 @@ tags: bookreview
 
 This winter holiday season, I spent some time [listening to](https://andrewmatveychuk.com/how-i-read-books/) a new book by the author of the famous “[The Phoenix Project](https://andrewmatveychuk.com/notes-on-the-phoenix-project/).” As I really liked that book, a new novel about the DevOps movement was on my reading list long before the release.
 
-“[The Unicorn Project](https://andrewmatveychuk.com/refer/the-unicorn-project)” is fiction, not a technical guide for DevOps practices. So, keep that in mind when looking for your next reading. The story’s events happen during the same period as the events in [“](null)[The Phoenix Project](https://andrewmatveychuk.com/notes-on-the-phoenix-project/)” and complement each other. However, you don’t have to read “[The Phoenix Project](https://andrewmatveychuk.com/notes-on-the-phoenix-project/)” first to understand the setting of the new book.
+“[The Unicorn Project](https://andrewmatveychuk.com/refer/the-unicorn-project)” is fiction, not a technical guide for DevOps practices. So, keep that in mind when looking for your next reading. The story’s events happen during the same period as the events in “[The Phoenix Project](https://andrewmatveychuk.com/notes-on-the-phoenix-project/)” and complement each other. However, you don’t have to read “[The Phoenix Project](https://andrewmatveychuk.com/notes-on-the-phoenix-project/)” first to understand the setting of the new book.
 
 The book elaborates on “Five Ideals,” or, I would rather say, five ideas that are crucial to creating high-performance organizations. So, let’s discuss them in more detail.
 
