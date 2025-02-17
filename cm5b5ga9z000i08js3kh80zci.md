@@ -1,6 +1,5 @@
 ---
 title: "Azure Policy: Starter Guide"
-seoTitle: "Introduction to Azure Policy Basics"
 seoDescription: "Azure Policy starter guide: best practices, resources, creation, assessment, testing, deployment for effective cloud governance"
 datePublished: Mon Feb 01 2021 05:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm5b5ga9z000i08js3kh80zci
