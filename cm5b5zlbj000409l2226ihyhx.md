@@ -15,11 +15,11 @@ Recently, I got the same question from a few people who were interested in how I
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734681922347/f4f30ea8-6ee8-4326-b440-330d4e3ee08f.png align="center")
 
-To be precise, I don’t read many books nowadays, but I listen to them. I discovered that I feel more comfortable with [audio versions of books](https://andrewmatveychuk.com/refer/audible) than with printed or electronic ones. This way I can give some rest to my eyes which might be already tired of staring at a computer screen or reading documents at work.  Apart from that, it helps to develop your listening skills if you are listening in a foreign language. If I come across a specific book or a part of it that I just cannot grasp, then I turn to “traditional” reading.
+To be precise, I don’t read many books nowadays, but I listen to them. I discovered that I feel more comfortable with [audio versions of books](https://andrewmatveychuk.com/refer/audible) than with printed or electronic ones. This way, I can give some rest to my eyes, which might be already tired of staring at a computer screen or reading documents at work.  Apart from that, it helps to develop your listening skills if you are listening in a foreign language. If I come across a specific book or a part of it that I just cannot grasp, then I turn to “traditional” reading.
 
 Many online stores and services sell audiobooks today, and you have plenty of freedom to decide which one to choose. I personally prefer [Audible](https://andrewmatveychuk.com/refer/audible), which is a subscription-based online service. It has a wide range of books on different topics, apps for mobile phones and helpful recommendation features. The subscription nature of this service encourages you to listen to at least one new book each month.
 
-You can [try it](https://andrewmatveychuk.com/refer/audible) by listening to a few audiobooks, too, and then decide if you are comfortable with it.
+You can [try it](https://andrewmatveychuk.com/refer/audible) by listening to a few audiobooks and then deciding if you are comfortable with it.
 
 ## Tip 2: Extend your time
 
@@ -47,7 +47,7 @@ As I “read” books in different formats, I usually have separate lists of boo
 
 Despite optimizing my reading routine, it still requires some time. The time, which is always less than I need. I decided that I could not afford just read random titles hoping to find something useful or enjoyable because I could not stand the feeling of wasted time after reading crappy or shallow writing.
 
-Over time I have formed my preference for recommendation sources. They are the people I communicate a lot with and know well, authorities in the areas of my interest, informative reviews by other readers and definitely the recommendations and references by the authors of books I have already read. From my experience, if you enjoyed a piece of writing and share the author’s views on the subject, it is more likely that his or her recommendations will be relevant to your interests and will be worth reading.
+Over time, I have formed a preference for recommendation sources. They are the people I communicate a lot with and know well, authorities in the areas of my interest, informative reviews by other readers and definitely the recommendations and references by the authors of books I have already read. From my experience, if you enjoyed a piece of writing and share the author’s views on the subject, it is more likely that his or her recommendations will be relevant to your interests and will be worth reading.
 
 This doesn’t mean that you should avoid picking up random books, but at least you should be aware of what you expect from your reading.
 
@@ -59,6 +59,6 @@ As [Stephen Covey](https://en.wikipedia.org/wiki/Stephen_Covey) said in his best
 
 There was a time when I was challenged with new responsibilities at work. I had to attend multiple meetings, switch between tasks and carve some time to actually do the job. I became highly interested in time management, personal productivity and planning. I read a dozen books on these topics. But guess what? Nothing changed. I still felt exhausted and underperforming. All because of the simple fact that I didn’t even try to apply some new practices or techniques I had read about. All the time I spent reading those books was useless.
 
-Do not repeat such a mistake. If you truly want to get some value from your reading, start taking notes on what impressed you the most and, moreover, apply these new or rediscovered ideas in your life. For example, you can begin writing [book reviews](https://andrewmatveychuk.com/tag/book-review/) even for yourself. Change requires action. If you take action, it is more likely that you succeed with your personal or work challenges.
+Do not repeat such a mistake. If you truly want to get some value from your reading, start taking notes on what impressed you the most and, moreover, apply these new or rediscovered ideas in your life. For example, you can begin writing [book reviews](https://andrewmatveychuk.com/tag/bookreview) even for yourself. Change requires action. If you take action, it is more likely that you succeed with your personal or work challenges.
 
 How do you read books? Share your tips and thoughts on this in the comments.
