@@ -1,0 +1,108 @@
+---
+title: "How to test Azure Policy"
+datePublished: Tue Jun 24 2025 13:00:10 GMT+0000 (Coordinated Universal Time)
+cuid: cmcaj9e4a000302jxd9xh34q4
+slug: how-to-test-azure-policy
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1750758610668/fc7baafb-b954-4c43-a170-4b7b6c5f828e.png
+tags: testing, azure-policy
+
+---
+
+It has been some time since I wrote my [**Azure Policy Starter Guide**](https://andrewmatveychuk.com/azure-policy-starter-guide), in which I briefly touched upon the challenges of testing custom Azure Policy definitions. Azure Policy testing still remains an open question for me, offering a lot of room for various testing approaches and practices.
+
+Unfortunately, the [**official Microsoft guidelines**](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/evaluate-impact) provide limited information about testing Azure Policy, with most recommendations focusing on manual tests. The [**Enterprise Azure Policy as Code**](https://azure.github.io/enterprise-azure-policy-as-code/) starter kit requires adopting a predefined end-to-end process, which may not fully meet your needs, with numerous dependencies and minimal emphasis on testing. The [**Azure Policy as Code Workflow**](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/policy-as-code#test-and-validate-the-updated-definition) documentation offers only a few hints about [using the Azure Resource Graph to check for the Azure Policy compliance state](https://learn.microsoft.com/en-us/azure/governance/policy/samples/resource-graph-samples?tabs=azure-cli#azure-policy) for your resources.
+
+Here, I want to discuss this topic in more detail and present some automation ideas. We will look into validating your Azure Policy syntax, how different Azure Policy effects can affect your testing strategy, how to test your custom policies individually, and how to evaluate their cumulative effect on resources within a specific scope. The testing approaches described below are organized according to the [**Testing Pyramid**](https://en.wikipedia.org/wiki/Software_testing), going from the quickest to execute to the most time-consuming ones to run.
+
+So, let’s start.
+
+# Syntax validation
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1750760799123/f779e5fe-a2de-4183-9f8d-c65290235e15.png align="center")
+
+## How to validate Azure Policy when authoring in Visual Studio Code
+
+Unfortunately, there is no easy way to validate your custom Azure policy syntax. Although there is an official [Azure Policy extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=AzurePolicy.azurepolicyextension), I personally find it not very helpful when authoring your custom policy definitions or policy initiatives, as it doesn’t provide IntelliSense support in the editor. Plus, it depends on some outdated extensions, as I’m writing this. [Justin Grote](https://justingrote.github.io/) even created a separate [Azure Policy IntelliSense extension](https://marketplace.visualstudio.com/items?itemName=justin-grote.azure-policy-intellisense) to address that challenge, but it hasn’t been updated for quite some time.
+
+As Azure Policy definitions are defined in the JSON format by default, probably the easiest way to validate them is to add the corresponding [policy definition schema](https://schema.management.azure.com/schemas/2020-10-01/policyDefinition.json) to your policy definition files so that [Visual Studio Code can validate your JSON files](https://code.visualstudio.com/Docs/languages/json) against it. Still, that is only a part of the story here.
+
+## How to validate Azure Policy syntax in your CI/CD pipeline
+
+In most cases, you will want to [validate your custom Azure Policy syntax as part of your automated build/deployment pipelines](https://andrewmatveychuk.com/how-to-deploy-azure-policy-from-an-azure-devops-pipeline) to ensure consistent quality across your team or project. Some people try to [perform a basic policy definition structure test using Pester to parse and validate their policy JSON files for specific elements](https://dev.to/omiossec/using-powershell-and-pester-to-validate-azure-policy-syntax-2cko). To me, that approach is quite limited, as you will likely need to update your tests each time the Azure Policy definition schema is updated, and you create new policies using different schema versions.
+
+I suggest the same approach with JSON schema validation to check your Azure Policy syntax when running your CI/CD pipelines. There are plenty of ready-to-use extensions for both GitHub Actions and Azure Pipelines to do so. Also, you can still implement it as a Pester test case using the [Test-Json](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/test-json) cmdlet and provide the policy definition schema file.
+
+## How to validate Azure Policy syntax when they are defined using Bicep or Terraform templates
+
+I have already written a few posts explaining why I define my custom Azure Policy definitions using [ARM](https://andrewmatveychuk.com/how-to-deploy-azure-policies-with-arm-templates) and later [Bicep](https://andrewmatveychuk.com/how-to-deploy-azure-policy-with-bicep) templates. In short, I still find it somewhat inconvenient that Azure Policy, as an Azure resource, is, by default, defined using a separate format, which is different from other Azure resource definitions that you typically author using Bicep or Terraform templates.
+
+For example, when you [create your custom Azure Policy definitions in Bicep](https://andrewmatveychuk.com/how-to-deploy-azure-policy-with-bicep), you have pretty good autocompletion and IntelliSense support in Visual Studio Code from [the Bicep extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-bicep). Secondly, you can leverage [Bicep linter](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/linter) checks for syntax validation or simply execute the [Bicep build command](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-cli#build) as part of your pipeline to validate the source code of your definitions. Thirdly, it helps you to define and deploy your cloud resources in a consistent and unified approach across your project, reducing the number of pipelines to run and the maintenance complexity of working with different formats. Lastly, it allows you to validate your templates against your actual environment. Let me explain this part a bit.
+
+Validating your Azure Policy definition syntax locally or during a pipeline run is great, as it can be done quickly without any external dependencies. However, it is still not enough to ensure the correctness of your policy, because you can technically provide incorrect property values that will cause errors during actual policy deployment. When you [define your Azure Policy in a Bicep template](https://andrewmatveychuk.com/how-to-deploy-azure-policy-with-bicep), you can validate its correctness against the Azure Resource Management API with the [New-AzDeployment](https://learn.microsoft.com/en-us/powershell/module/az.resources/new-azdeployment) cmdlet (check the What-If parameter). Similarly, you can leverage the plan command in Terraform. That type of check will take longer to complete, but it will validate that your Azure Policy definition can actually be deployed without errors.
+
+Now, when we are pretty sure that our Azure Policy definitions are syntactically correct, it is time to test them in action, but before we dive into the tests, let’s spend a couple more minutes reviewing Azure Policy effects and their nuances.
+
+# Nuances of testing Azure Policy effects
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1750761144916/91c20837-7707-4cb4-bbd5-5f184252f714.png align="center")
+
+Understanding [Azure Policy effects](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/effect-basics) and their nuances is crucial for properly designing your tests.
+
+First of all, different policy effects have different outcomes. Those expected outcomes should be tested differently, and you can organize your test cases around the effects first.
+
+Secondly, some Azure Policy effects are [interchangeable](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/effect-basics#interchanging-effects), meaning that, in most cases, testing for one effect only will be enough. As testing for some effects is easier than for others, it can save you a ton of time. For instance, testing the Deny effect is usually easier than testing the Audit one. The first one can be tested synchronously, while the second comes into effect asynchronously, introducing delays in your test cases.
+
+> Probably the best description of Azure Policy effects from the test perspective so far is the [Testing Azure Policy](https://github.com/fawohlsc/azure-policy-testing) project by Fabian Wohlschläger. I really admire his effort and dedication to digging into the Azure Policy APIs and providing sample Pester tests for different effects. The helper PowerShell functions he created can save you a lot of time when designing and running your Azure Policy tests.
+
+Thirdly, there is a specific [order for evaluating different Azure Policy effects](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/effect-basics#order-of-evaluation) applicable to the same scope. Understanding that order is essential when you test your resource deployments against a few policies (more on this below).
+
+Now, let’s talk about testing Azure Policy effects.
+
+# Azure Policy unit tests
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1750760838430/6170da3f-6e31-4b70-bd56-72ad99ae4a47.png align="center")
+
+Basically, when we say that we want to test our Azure Policy, we essentially want to test its effect. For example, in the case of the Deny effect, we might want to test that our policy [prevents new Storage accounts using insecure TLS versions from being created](https://github.com/Azure/azure-policy/blob/master/built-in-policies/policyDefinitions/Storage/StorageAccountMinimumTLSVersion_Audit.json). How can we test that?
+
+Using the [Arrange-Act-Assert pattern](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices#arrange-your-tests), we can create a Pester test that will:
+
+1. \[**Arrange**\] Deploy our Azure Policy definition at the subscription level. It would be wise to use a separate test subscription for that purpose, so your Azure Policy definitions to test don’t overlap with those in your production scope.
+    
+2. \[**Arrange**\] Create a test Resource Group and scope your policy assignment to it. I recommend creating resource group-scoped assignments for tests to isolate the test environment for each individual Azure Policy definition.
+    
+3. \[**Act**\] Deploy a non-compliant resource like a Storage account with incorrect TLS settings.
+    
+4. \[**Assert**\] Check that your deployment fails because of that specific Azure Policy. It is important to check for a particular policy compliance error to avoid false positives from other Azure Policy assignments that apply to the same scope. For example, you might have a subscription-scoped policy assignment to restrict resource deployment to specific Azure regions, and your test resource deployment might fail because of targeting the wrong region, not because of the actual policy you want to test.
+    
+
+%[https://gist.github.com/andrewmatveychuk/d51229079bbe33be9e917b3e85ea620e] 
+
+Optionally, you can also add an additional test to ensure that a policy-compliant resource can be deployed successfully.
+
+> *As I mentioned above, I strongly recommend looking into the sample test cases in the* [*Testing Azure Policy*](https://github.com/fawohlsc/azure-policy-testing) *project to get some ideas about validating different Azure Policy effects using the* [*Pester*](https://pester.dev/) *test framework.*
+
+When you have a lot of Azure Policy definitions to test, such test cases can be executed with Pester in parallel with minimal delays. However, there will still be delays related to resource provisioning and evaluating the resource compliance state due to the nature of how the Azure Policy backend works. Depending on how heavy/long your tests are, you might want to split them into groups to be executed every time as part of your CI process and scheduled for nightly builds.
+
+Automatically testing individual Azure Policy definitions is an excellent thing. Still, in real life, you usually have a few dozen or even hundreds of policies applicable to the same scope, introducing new edge cases and additional test complexity.
+
+# Azure Policy integration tests
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1750760855424/9eb00772-e5d1-405a-a301-cd6cb19c6300.png align="center")
+
+In a production environment, you usually have many different Azure Policy assignments scoped to management groups or individual subscriptions, creating [cascading effects when evaluating those policies](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/effect-basics#layering-policy-definitions) during resource deployments or updates.
+
+Let’s use the previous example with two policies for the sake of simplicity. You might usually have an Azure Policy assignment at the top management group level to restrict the Azure regions allowed for resource deployment. At the same time, you might have another policy assignment at your production Azure subscription level to enforce the minimal TLS version. Both policies will deny new resource creation in the production subscription if either of them is violated. In order to pass those rules, a resource (a Storage account) must be created in an allowed region and with the correct TLS settings. To make things even more complicated, you might also have an Azure Policy with the Modify effect to automatically update the TLS settings to an outdated value when a new Service account is deployed. Imagine you are deploying a new Storage account into the correct region and with the correct TLS settings. What would be the outcome of your resource deployment in that case?
+
+Remember, I mentioned that [Azure Policies are applied in a specific order depending on their effect](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/effect-basics#order-of-evaluation)? As the Modify-effect policies are evaluated first, your TLS settings will be updated to the incorrect value. Then, the Deny-effect policies will be triggered and block your correctly defined resource from being deployed.
+
+Now, assume you have hundreds of overlapping Azure Policy assignments, which is not uncommon. You can imagine how complex the testing becomes, as you don’t test individual policy effects anymore, but instead you need to test their compound effect on your resources.
+
+That brings you one more step closer to the top of your testing pyramid: you should now test your resource deployment in the environment that is similar to your production setup as much as possible. In practice, that means you need to have a test environment where you deploy and assign your Azure Policy definitions to reflect their desired setup in a production environment. Then you can execute the same test cases you used for your Azure Policy unit tests to validate the resulting cumulative effect and desired behavior. Lastly, testing your actual application deployment end-to-end in such an environment would make a lot of sense. Only then you can be sure (to a greater extent) that your new or updated Azure Policy definitions won’t break your application.
+
+Depending on your organizational structure and established development and test practices, the final integration testing can be performed as part of your Azure Policy management or your application project development processes. It’s also highly dependent on how you manage Azure Policy assignments in your organization, whether you use any landing zones to host your applications, and how isolated they are.
+
+# To test, or not to test
+
+Last but not least, there is a debatable question about testing [built-in Azure Policies](https://learn.microsoft.com/en-us/azure/storage/common/policy-reference) maintained by Microsoft. Overall, they are well tested and have very few bugs, often resulting from an incorrect understanding of policy behavior. In most cases, you can skip testing them at the lower levels of your testing pyramid and include them in the testing scope only at the last step, when you test the integration of your application into the environment governed by your set of Azure Policies. You might also want to test your application functionality as a white box and/or a black box to validate its behavior in an updated environment, but that topic is beyond the scope of this article.
+
+How do you test your custom Azure Policy definitions? Do you test them as part of your application deployment pipelines? Or do you manage and push them centrally across your whole environment? Please share your experience in the comments 👇
