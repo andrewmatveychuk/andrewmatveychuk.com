@@ -1,7 +1,7 @@
 ---
 title: "How to use Microsoft Outlook to stay productive - Part 2"
 seoDescription: "Boost productivity with Microsoft Outlook: schedule tasks in your calendar and minimize email reliance for efficient time management"
-datePublished: Tue Jul 30 2019 04:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-07-30T04:00:00.000Z
 cuid: cm5pamns3002d09lf0pzm4mnf
 slug: how-to-use-microsoft-outlook-to-stay-productive-part-2
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737018965698/68b1133f-7296-4f46-976a-a90744e282b7.png
