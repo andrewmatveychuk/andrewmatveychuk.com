@@ -1,7 +1,7 @@
 ---
 title: "Azure Savings Plans vs. Azure Reservations"
 seoDescription: "Compare Azure Savings Plans and Reservations to determine the best cost optimization for your workloads"
-datePublished: Mon Jul 17 2023 11:00:24 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-07-17T11:00:24.000Z
 cuid: cm5b53bug000f08jse2zo81ml
 slug: azure-savings-plans-vs-azure-reservations
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736870919330/2b79e3c3-e340-4d1d-8482-510304ab5b27.png
