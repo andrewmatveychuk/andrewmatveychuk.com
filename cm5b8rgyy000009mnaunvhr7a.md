@@ -1,7 +1,7 @@
 ---
 title: "Practical use cases of cost optimization in Azure"
 seoDescription: "Optimize Azure costs with reservations, traffic offloading, and efficient development environments to reduce cloud expenses"
-datePublished: Tue Aug 04 2020 04:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-08-04T04:00:00.000Z
 cuid: cm5b8rgyy000009mnaunvhr7a
 slug: practical-use-cases-of-cost-optimization-in-azure
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737042005717/4f41e212-db55-4dee-93ca-a28ce8c41954.png
