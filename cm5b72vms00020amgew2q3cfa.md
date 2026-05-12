@@ -1,7 +1,7 @@
 ---
 title: "Incident Management in IT Operations 101 – The Basics. Part 1"
 seoDescription: "Learn IT incident management basics, avoid typical mistakes, and distinguish incidents from service requests"
-datePublished: Mon May 20 2019 04:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-05-20T04:00:00.000Z
 cuid: cm5b72vms00020amgew2q3cfa
 slug: incident-management-in-it-operations-101-the-basics-part-1
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737045810000/e509c77d-9189-4809-892e-5f8dde708602.png
