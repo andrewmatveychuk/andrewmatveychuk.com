@@ -1,7 +1,7 @@
 ---
 title: "Top 5 mistakes in IT monitoring"
 seoDescription: "Discover and avoid the top 5 common IT monitoring mistakes that can affect your business operations and performance"
-datePublished: Mon Jun 10 2019 04:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-06-10T04:00:00.000Z
 cuid: cm5o159v2000d09ky0gww6hye
 slug: top-5-mistakes-in-it-monitoring
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737101165029/bb93f62c-cff3-4d45-acf2-58a84d4378e1.png
