@@ -1,7 +1,7 @@
 ---
 title: "How to update the OAuth2 permission grants for an Azure AD service principal"
 seoDescription: "Learn how to update OAuth2 permission grants for Azure AD service principals using Microsoft Graph REST API"
-datePublished: Mon Jan 24 2022 12:35:28 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-01-24T12:35:28.000Z
 cuid: cm5b8ael0000409kt3f02ctvi
 slug: how-to-update-the-oauth2-permission-grants-for-an-azure-ad-service-principal
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736871067674/299931c5-9814-448c-b1f8-360688547d75.png
