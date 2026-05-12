@@ -1,7 +1,7 @@
 ---
 title: "Incident Management in IT Operations 101 – The Basics. Part 2"
 seoDescription: "Explore incident lifecycles, workflows, and SLA importance in IT. Understand incident dispatching and effective resolution processes"
-datePublished: Mon May 27 2019 04:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-05-27T04:00:00.000Z
 cuid: cm5pa4ruq000009me8fxs7ce8
 slug: incident-management-in-it-operations-101-the-basics-part-2
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737045776998/859bf14f-0893-46df-a8fe-0442c90ddccf.png
