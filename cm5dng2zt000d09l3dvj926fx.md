@@ -1,7 +1,7 @@
 ---
 title: "How to connect to Azure Database for MySQL from Ghost container"
 seoDescription: "Learn to securely connect Ghost on Azure to an Azure Database for MySQL using a Docker container and Bicep deployment"
-datePublished: Mon Sep 06 2021 15:39:20 GMT+0000 (Coordinated Universal Time)
+datePublished: 2021-09-06T15:39:20.000Z
 cuid: cm5dng2zt000d09l3dvj926fx
 slug: how-to-connect-to-azure-database-for-mysql-from-ghost-container
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736871091452/102f45a9-eb1b-4232-a713-559c252481d3.png
