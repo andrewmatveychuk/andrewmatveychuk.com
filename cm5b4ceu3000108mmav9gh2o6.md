@@ -2,7 +2,7 @@
 title: "Notes on “Extreme Ownership” by Jocko Willink and Leif Babin (Book Review) - Part 1"
 seoTitle: "Extreme Ownership" Insights: Book Review Part 1"
 seoDescription: "Explore key leadership and management principles from "Extreme Ownership" by Jocko Willink and Leif Babin, applied to IT operations"
-datePublished: Mon Apr 22 2019 08:33:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-04-22T08:33:00.000Z
 cuid: cm5b4ceu3000108mmav9gh2o6
 slug: notes-on-extreme-ownership-by-jocko-willink-and-leif-babin-book-review-part-1
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737045922468/14d6ff3c-a1e9-4865-8a64-273df0d86134.png
