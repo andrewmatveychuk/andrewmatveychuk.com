@@ -1,6 +1,6 @@
 ---
 title: "How to run Azure DevOps self-hosted agents effectively"
-datePublished: Tue Nov 05 2019 05:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-11-05T05:00:00.000Z
 cuid: cm5pe23ij000409mb5qlp9q8l
 slug: how-to-run-azure-devops-self-hosted-agents-effectively
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737018458423/b84d73ec-0cd5-4713-863b-af5a9eada50a.png
