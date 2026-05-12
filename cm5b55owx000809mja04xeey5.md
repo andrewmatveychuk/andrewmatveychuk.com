@@ -1,7 +1,7 @@
 ---
 title: "How to use change history in Azure Monitor Workbooks"
 seoDescription: "Use Azure Monitor Workbooks with Azure Resource Graph to track and analyze configuration changes for better troubleshooting and incident management"
-datePublished: Mon Aug 07 2023 11:00:27 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-08-07T11:00:27.000Z
 cuid: cm5b55owx000809mja04xeey5
 slug: how-to-use-change-history-in-azure-monitor-workbooks
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736867563882/ac1c9114-6c53-4549-b965-40b18395b3f2.png
