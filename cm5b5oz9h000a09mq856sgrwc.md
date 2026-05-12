@@ -1,7 +1,7 @@
 ---
 title: "How to find unused Azure resources"
 seoDescription: "Identify, assess, and manage unused Azure resources to save costs, improve security, and enhance operational efficiency"
-datePublished: Fri Jun 23 2023 12:30:24 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-06-23T12:30:24.000Z
 cuid: cm5b5oz9h000a09mq856sgrwc
 slug: how-to-find-unused-or-orphan-resources-in-azure
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736870938463/877e1195-8e84-47cd-8f6d-d3052f5ffac7.png
