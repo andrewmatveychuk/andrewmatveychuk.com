@@ -2,7 +2,7 @@
 title: "Notes on “Digital Minimalism” by Cal Newport (Book Review)"
 seoTitle: "Digital Minimalism: Cal Newport Book Review"
 seoDescription: "Explore the key concepts of "Digital Minimalism" by Cal Newport to enhance productivity and achieve your goals by transforming your digital habits"
-datePublished: Mon Apr 29 2019 14:30:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-04-29T14:30:00.000Z
 cuid: cm5b3hg3d000f09mk0effd5hc
 slug: notes-on-digital-minimalism-by-cal-newport-book-review
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737045878790/cc7d616e-ab64-413c-bee1-ebbce11592a6.png
