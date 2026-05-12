@@ -1,7 +1,7 @@
 ---
 title: "Challenges of remote work in the times of Corona Virus"
 seoDescription: "Discover strategies to boost productivity and teamwork despite increased meetings and project demands"
-datePublished: Wed Apr 29 2020 04:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-04-29T04:00:00.000Z
 cuid: cm5b79bx2000108mnbxf9f4fk
 slug: challenges-of-remote-work-in-the-times-of-corona-virus
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737041790872/36065b02-1d71-4b24-8b56-b1f36f914ae4.png
