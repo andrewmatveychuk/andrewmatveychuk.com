@@ -1,6 +1,6 @@
 ---
 title: "WordPress as a Radius application"
-datePublished: Wed Jun 25 2025 15:54:35 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-06-25T15:54:35.697Z
 cuid: cmcc4xjjl000o02js9azya1du
 slug: wordpress-as-a-radius-application
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1750862355409/c2d18432-63b1-4265-84d0-9d710e8eebed.png
