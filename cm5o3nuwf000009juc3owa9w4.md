@@ -1,7 +1,7 @@
 ---
 title: "How to deploy Azure Policies with ARM templates"
 seoDescription: "Learn to deploy Azure Policies using ARM templates and automate your policy management with various tools like REST API, PowerShell, and Azure CLI"
-datePublished: Tue Nov 19 2019 05:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-11-19T05:00:00.000Z
 cuid: cm5o3nuwf000009juc3owa9w4
 slug: how-to-deploy-azure-policies-with-arm-templates
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737018728041/e8746204-ffdb-4a90-9825-256d7272acbd.png
