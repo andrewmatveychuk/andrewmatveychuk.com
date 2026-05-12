@@ -1,6 +1,6 @@
 ---
 title: "How to access private PowerShell repository from Azure pipeline"
-datePublished: Thu Apr 09 2020 04:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-04-09T04:00:00.000Z
 cuid: cm5pe87pf000w09ld3fqwg994
 slug: how-to-access-private-powershell-repository-from-azure-pipeline
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737041748344/262c439c-efca-4c25-a2b1-ec6f621e5c9f.png
