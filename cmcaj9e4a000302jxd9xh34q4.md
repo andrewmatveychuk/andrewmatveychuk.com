@@ -1,6 +1,6 @@
 ---
 title: "How to test Azure Policy"
-datePublished: Tue Jun 24 2025 13:00:10 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-06-24T13:00:10.810Z
 cuid: cmcaj9e4a000302jxd9xh34q4
 slug: how-to-test-azure-policy
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1750758610668/fc7baafb-b954-4c43-a170-4b7b6c5f828e.png
