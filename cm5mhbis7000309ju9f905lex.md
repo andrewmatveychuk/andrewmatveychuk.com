@@ -1,6 +1,6 @@
 ---
 title: "Top-5 mistakes in IT Operations"
-datePublished: Tue Oct 15 2019 04:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-10-15T04:00:00.000Z
 cuid: cm5mhbis7000309ju9f905lex
 slug: top-5-mistakes-in-it-operations
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737018611813/9adb73aa-8ac5-420c-8791-b1ccdb8924ff.png
