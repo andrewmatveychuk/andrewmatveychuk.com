@@ -1,7 +1,7 @@
 ---
 title: "Ghost deployment on Azure: Security Hardening"
 seoDescription: "Secure your Ghost deployment on Azure with Key Vault, Azure Front Door, and Web Application Firewall for enhanced protection and performance"
-datePublished: Mon Feb 15 2021 05:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2021-02-15T05:00:00.000Z
 cuid: cm5b6d5od00010al8bv07ge8h
 slug: ghost-deployment-on-azure-security-hardening
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737043040009/6b9c3ffa-14e3-4be2-aa91-1a0d572b1f3f.png
