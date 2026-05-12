@@ -1,7 +1,7 @@
 ---
 title: "My personal productivity tips – Part 1"
 seoDescription: "Gain productivity with goal-setting, energy management, and planning. Unlock potential using actionable strategies and real-life examples"
-datePublished: Thu Jul 04 2019 10:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-07-04T10:00:00.000Z
 cuid: cm5pbboeq000b09l1gzz3glzi
 slug: my-personal-productivity-tips-part-1
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737018999073/3fb44089-532a-42c4-8344-3e6efefa87ce.png
