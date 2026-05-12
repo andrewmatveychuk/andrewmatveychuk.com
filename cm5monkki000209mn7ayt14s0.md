@@ -1,7 +1,7 @@
 ---
 title: "Using ARM templates to deploy Azure Policy initiatives"
 seoDescription: "Learn how to deploy Azure Policy initiatives using ARM templates for efficient governance and bulk policy assignments"
-datePublished: Tue Dec 03 2019 05:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-12-03T05:00:00.000Z
 cuid: cm5monkki000209mn7ayt14s0
 slug: using-arm-templates-to-deploy-azure-policy-initiatives
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737019054368/bd37542a-3a76-4489-916f-f0ee909e5170.png
