@@ -1,7 +1,7 @@
 ---
 title: "How to use Microsoft Outlook to stay productive - Part 1"
 seoDescription: "Learn how to boost productivity with Microsoft Outlook using offline mode, inbox triage, and optimizing tasks with flags and categories"
-datePublished: Tue Jul 23 2019 13:26:13 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-07-23T13:26:13.000Z
 cuid: cm5mkairl000k09mkarc00neu
 slug: how-to-use-microsoft-outlook-to-stay-productive-part-1
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737018939403/26f82107-c4f0-42e3-8f00-6aad1047b9d8.png
