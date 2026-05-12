@@ -1,7 +1,7 @@
 ---
 title: "Practical aspects of running a CMDB for Azure resources: Tips"
 seoDescription: "Practical CMDB management in Azure: focus on design, deployment, governance, and automation for efficient operations"
-datePublished: Wed Dec 02 2020 09:39:44 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-12-02T09:39:44.000Z
 cuid: cm5b67beo000609l26gib7gzt
 slug: practical-aspects-of-running-a-cmdb-for-azure-resources-tips
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737042112343/55e88a52-616b-4e40-b2dd-08ca54573dd5.png
