@@ -1,6 +1,6 @@
 ---
 title: "Optimizing Compute Costs in Azure (Webinar)"
-datePublished: Tue Aug 05 2025 09:58:30 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-08-05T09:58:30.577Z
 cuid: cmdyd9jg1001c02jugke7hz98
 slug: optimizing-compute-costs-in-azure-webinar
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1754387785561/482ec8b9-197e-4570-8798-a5633a80d22d.png
