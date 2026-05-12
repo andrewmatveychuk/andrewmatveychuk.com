@@ -1,7 +1,7 @@
 ---
 title: "Audit and Enable Azure Hybrid Benefit using Azure Policy"
 seoDescription: "Optimize Azure cost by auditing and enabling Azure Hybrid Benefit with Azure Policy for better resource compliance and management"
-datePublished: Tue Nov 29 2022 13:48:26 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-11-29T13:48:26.000Z
 cuid: cm5mld6wf000u08me8b1bc3ga
 slug: audit-and-enable-azure-hybrid-benefit-using-azure-policy
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736871029044/ca5e63db-1e21-43f6-a4c2-666ea8b84f41.png
