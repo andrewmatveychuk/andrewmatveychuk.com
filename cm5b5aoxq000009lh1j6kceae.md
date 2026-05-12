@@ -2,7 +2,7 @@
 title: "A sample CI/CD pipeline for PowerShell module"
 seoTitle: "PowerShell Module CI/CD Pipeline Guide"
 seoDescription: "Learn to create a CI/CD pipeline for a PowerShell module with Azure DevOps, covering structure, testing, and deployment"
-datePublished: Thu Apr 02 2020 07:13:14 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-04-02T07:13:14.000Z
 cuid: cm5b5aoxq000009lh1j6kceae
 slug: a-sample-ci-cd-pipeline-for-powershell-module
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737041723400/683309ee-d95c-4386-a82a-371f7f2b7762.png
