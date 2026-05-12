@@ -1,7 +1,7 @@
 ---
 title: "How to deploy to different tenants with Azure DevOps"
 seoDescription: "Deploy Azure resources across tenants using Azure DevOps. Explore multi-tenant setups to streamline CI/CD processes"
-datePublished: Wed Jun 30 2021 07:25:02 GMT+0000 (Coordinated Universal Time)
+datePublished: 2021-06-30T07:25:02.000Z
 cuid: cm5b7olnz00030ajmeco2f6kl
 slug: how-to-deploy-to-another-tenant-with-azure-devops
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736871106654/2584fb68-9b09-4477-af19-6e5694475a49.png
