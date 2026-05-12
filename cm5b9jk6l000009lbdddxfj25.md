@@ -1,7 +1,7 @@
 ---
 title: "How to authenticate to Azure with managed identities from non-Azure servers"
 seoDescription: "Learn to authenticate Azure resources from non-Azure servers using managed identities, enhancing security without storing credentials"
-datePublished: Tue Jul 02 2024 11:00:17 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-02T11:00:17.000Z
 cuid: cm5b9jk6l000009lbdddxfj25
 slug: how-to-authenticate-to-azure-with-managed-identities-from-non-azure-servers
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736867463233/bd3996da-18d8-4ec5-9dbe-75c113387747.png
