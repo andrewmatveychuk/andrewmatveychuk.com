@@ -2,7 +2,7 @@
 title: "How to monitor Azure Reservations utilization"
 seoTitle: "Monitor Azure Reservations Utilization Efficiently"
 seoDescription: "Learn how to effectively monitor and manage Azure Reservations utilization to optimize cloud costs and enhance your FinOps practices"
-datePublished: Mon Oct 03 2022 13:56:20 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-10-03T13:56:20.000Z
 cuid: cm5b4ukbn000q09l5fp7a5c3s
 slug: how-to-monitor-azure-reservations-utilization
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736871047833/41c67984-c323-4031-a5a5-2f7c3f2fcd01.png
