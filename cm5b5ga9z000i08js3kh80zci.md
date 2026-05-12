@@ -1,7 +1,7 @@
 ---
 title: "Azure Policy: Starter Guide"
 seoDescription: "Azure Policy starter guide: best practices, resources, creation, assessment, testing, deployment for effective cloud governance"
-datePublished: Mon Feb 01 2021 05:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2021-02-01T05:00:00.000Z
 cuid: cm5b5ga9z000i08js3kh80zci
 slug: azure-policy-starter-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737043067044/15e5c87f-00eb-4699-ac3c-c60abb5cbb05.png
