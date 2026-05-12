@@ -1,7 +1,7 @@
 ---
 title: "How I read books"
 seoDescription: "Use audiobooks, extend reading time, create a reading list, and take actionable notes to read more books effectively"
-datePublished: Mon May 06 2019 04:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-05-06T04:00:00.000Z
 cuid: cm5b5zlbj000409l2226ihyhx
 slug: how-i-read-books
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737045834662/c7cab6ae-a03d-47ea-83e6-956cae386e39.png
