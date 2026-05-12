@@ -1,7 +1,7 @@
 ---
 title: "How to enforce naming convention for Azure resources"
 seoDescription: "Learn how to enforce naming conventions for Azure resources using Azure Policy to enhance governance and improve user experience across teams"
-datePublished: Tue Dec 10 2019 05:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-12-10T05:00:00.000Z
 cuid: cm5mnghmd000409mhab7b8s7r
 slug: how-to-enforce-naming-convention-for-azure-resources
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737018897560/e23a201e-773b-4688-a4f3-9a6f0cde9a1d.png
