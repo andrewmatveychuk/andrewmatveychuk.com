@@ -1,6 +1,6 @@
 ---
 title: "Azure Policy Best Practices"
-datePublished: Tue Dec 13 2022 06:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2022-12-13T06:00:00.000Z
 cuid: cm5b4i5ti000109lbbcfk61b1
 slug: azure-policy-best-practices
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736871007237/0f4de9cc-533b-4d07-9dc4-98f707807444.png
