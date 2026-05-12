@@ -1,7 +1,7 @@
 ---
 title: "Ghost on Azure: Project Update (Ghost 5, MySQL Flexible Server, Private Link, RBAC for Key Vault, App Service access restrictions to Front Door)"
 seoDescription: "Discover the latest updates on deploying Ghost 5 on Azure, integrating enhanced security features like MySQL Flexible Server and Azure Private Link"
-datePublished: Tue Nov 12 2024 09:40:51 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-11-12T09:40:51.000Z
 cuid: cm5b9gsfz000409l8bhltbejv
 slug: ghost-on-azure-project-update
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736867442838/652580ec-bb95-453e-bb86-1c09ccc32652.png
