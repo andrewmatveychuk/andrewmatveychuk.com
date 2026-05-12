@@ -1,6 +1,6 @@
 ---
 title: "On selling (and buying) DevOps"
-datePublished: Wed Jul 22 2020 14:13:55 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-07-22T14:13:55.000Z
 cuid: cm5b8labz000109l43ctjaq0g
 slug: on-selling-devops
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737041970512/31555212-8832-4dcb-baef-68250197c0f0.png
