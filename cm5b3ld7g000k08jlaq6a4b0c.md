@@ -2,7 +2,7 @@
 title: "Notes on “The Unicorn Project” by Gene Kim (Book Review)"
 seoTitle: "The Unicorn Project" Book Review Summary"
 seoDescription: "Explore Gene Kim's "The Unicorn Project," a novel blending fiction with DevOps insights, highlighting five key ideals for organizational success"
-datePublished: Thu Jan 09 2020 05:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-01-09T05:00:00.000Z
 cuid: cm5b3ld7g000k08jlaq6a4b0c
 slug: notes-on-the-unicorn-project-by-gene-kim-book-review
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737041860750/4310a227-fde9-4492-8550-0ef1447735c9.png
