@@ -1,7 +1,7 @@
 ---
 title: "How to deploy Azure Policy with Bicep"
 seoDescription: "Learn how to deploy custom Azure policies using Bicep with tips on policy, initiative assignments, and advanced techniques"
-datePublished: Wed Apr 28 2021 12:00:18 GMT+0000 (Coordinated Universal Time)
+datePublished: 2021-04-28T12:00:18.000Z
 cuid: cm5mo2grk000709la3enwegug
 slug: how-to-deploy-azure-policy-with-bicep
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736871128735/4c348194-d365-4528-a5f4-974dca7f50e3.png
