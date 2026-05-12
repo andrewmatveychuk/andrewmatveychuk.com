@@ -1,7 +1,7 @@
 ---
 title: "How to deploy linked ARM templates from private Azure DevOps repositories"
 seoDescription: "Learn how to deploy linked ARM templates from private Azure DevOps repos using a consistent, automated solution with Azure DevOps pipelines"
-datePublished: Thu Dec 19 2019 05:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-12-19T05:00:00.000Z
 cuid: cm5moemt5000509lad9q5dmz2
 slug: how-to-deploy-linked-arm-templates-from-private-azure-devops-repositories
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737018790435/27ea2ff5-60e0-4769-b43e-0ee2620533bd.png
