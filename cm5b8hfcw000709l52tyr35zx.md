@@ -1,6 +1,6 @@
 ---
 title: "How I failed the network configuration for my blog"
-datePublished: Tue Jun 16 2020 12:38:57 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-06-16T12:38:57.000Z
 cuid: cm5b8hfcw000709l52tyr35zx
 slug: how-i-failed-the-network-configuration-for-my-blog
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737043944702/c4b1d686-1c97-4c07-9215-ab198eb7bff1.png
