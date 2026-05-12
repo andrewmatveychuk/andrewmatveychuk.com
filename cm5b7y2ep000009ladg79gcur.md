@@ -1,7 +1,7 @@
 ---
 title: "How to fix images width for Microsoft Outlook in Mailchimp RSS campaigns sourced from Ghost"
 seoDescription: "Fix Outlook image sizing in Mailchimp RSS campaigns with Ghost by customizing RSS feeds and using Media RSS for proper image dimensions"
-datePublished: Wed May 01 2019 17:15:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-05-01T17:15:00.000Z
 cuid: cm5b7y2ep000009ladg79gcur
 slug: how-to-fix-images-width-for-microsoft-outlook-in-mailchimp-rss-campaigns-sourced-from-ghost
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737045856961/2b659d19-a4c0-495f-928d-d69c70fe3cf8.png
