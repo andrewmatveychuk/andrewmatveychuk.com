@@ -1,7 +1,7 @@
 ---
 title: "How to securely authenticate your applications to Azure services"
 seoDescription: "Authenticate applications to Azure with managed identities, certificate-based authentication, and AWS Secrets Manager"
-datePublished: Tue May 28 2024 13:00:18 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-05-28T13:00:18.000Z
 cuid: cm5b4z7zx000h09l2ggfq7i87
 slug: how-to-securely-authenticate-your-applications-to-azure-services
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736867522289/2bfcf0f9-75b1-4eec-bc8a-46f9476e11d1.png
