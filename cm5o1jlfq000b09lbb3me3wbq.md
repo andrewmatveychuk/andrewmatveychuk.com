@@ -1,7 +1,7 @@
 ---
 title: "Why 99.99% uptime or SLA is bad"
 seoDescription: "Explores why a 99.99% uptime SLA isn't always beneficial, weighing costs versus lost downtime revenue for businesses reliant on computer systems"
-datePublished: Tue May 14 2019 04:41:57 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-05-14T04:41:57.000Z
 cuid: cm5o1jlfq000b09lbb3me3wbq
 slug: why-99-99-uptime-or-sla-is-bad
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734681923094/2c681493-b9c3-460a-b8b4-fdbcab655b16.png
