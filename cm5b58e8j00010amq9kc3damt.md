@@ -1,7 +1,7 @@
 ---
 title: "How I run my blog"
 seoDescription: "Discover how to efficiently run a blog for under $8/month with fast loading times, encryption, and subscriber updates"
-datePublished: Tue Jun 02 2020 03:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2020-06-02T03:00:00.000Z
 cuid: cm5b58e8j00010amq9kc3damt
 slug: how-i-run-my-blog
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737041839029/25e08b45-cfa3-4f92-b0eb-0b1156fc6dcf.png
