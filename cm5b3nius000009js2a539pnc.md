@@ -2,7 +2,7 @@
 title: "Notes on “The Phoenix Project” by Gene Kim and others (Book Review)"
 seoTitle: "The Phoenix Project" Book Review Notes"
 seoDescription: "Review of "The Phoenix Project" exploring IT challenges, DevOps insights, and solutions for system administrators and operations engineers"
-datePublished: Wed Sep 04 2019 04:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-09-04T04:00:00.000Z
 cuid: cm5b3nius000009js2a539pnc
 slug: notes-on-the-phoenix-project
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737018579067/b62c1062-2a5e-4361-bf33-c5457ecb95b2.png
