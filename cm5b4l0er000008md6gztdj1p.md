@@ -1,7 +1,7 @@
 ---
 title: "What’s wrong with DevOps?"
 seoDescription: "Explore misconceptions about DevOps, its true definition, and why it's not just a job title but a transformative methodology"
-datePublished: Tue Oct 29 2019 05:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-10-29T05:00:00.000Z
 cuid: cm5b4l0er000008md6gztdj1p
 slug: whats-wrong-with-devops
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737018675405/f86f217f-dad9-4b84-8c75-0d9e8acd8645.png
