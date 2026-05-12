@@ -1,7 +1,7 @@
 ---
 title: "My personal productivity tips – Part 2"
 seoDescription: "Improve productivity by freeing mental space, protecting focused time, and establishing regular reviews for efficiency"
-datePublished: Tue Jul 16 2019 04:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-07-16T04:00:00.000Z
 cuid: cm5pb0bsn000209kvdnft1jpt
 slug: my-personal-productivity-tips-part-2
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737019020235/d0bf3926-d249-4581-9eab-8d5a6fff10fb.png
