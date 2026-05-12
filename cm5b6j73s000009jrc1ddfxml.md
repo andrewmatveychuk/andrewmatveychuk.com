@@ -1,7 +1,7 @@
 ---
 title: "Maintenance mode for web availability tests in Application Insights"
 seoDescription: "Learn how to emulate maintenance mode for web availability tests in Azure Application Insights to avoid false alerts during app updates"
-datePublished: Tue Nov 12 2019 05:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2019-11-12T05:00:00.000Z
 cuid: cm5b6j73s000009jrc1ddfxml
 slug: maintenance-mode-for-web-availability-tests-in-application-insights
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737018817848/a7087f6a-518d-4fe5-8a92-b517529c26f3.png
